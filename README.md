@@ -28,4 +28,4 @@ Steps:
   
   8. Exported as a CSV file
   
-  9. I chose to use Google Data Studio as my visualization tool and created a pie chart with my top 4 workouts and the breakdown of each workout based on record count, total energy burned(kcal), and the duration. 
+  9. I chose to use Google Data Studio as my visualization tool and created a pie chart with my top 4 workouts and the breakdown of each workout based on record count, total energy burned(kcal), and the duration. This is Apple_Workout_Analysis.pdf
